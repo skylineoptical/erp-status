@@ -1,22 +1,22 @@
 [
   {
     "name": "Skyline ERP",
-    "url": "https://erp.skylineoptical.com.my/users",
+    "url": "https://erp.skylineoptical.com.my/health",
     "icon": "https://icons.duckduckgo.com/ip3/erp.skylineoptical.com.my.ico",
     "slug": "skyline-erp",
-    "status": "down",
-    "uptime": "97.17%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "97.17%",
-    "uptimeYear": "97.17%",
-    "time": 578,
-    "timeDay": 578,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "status": "up",
+    "uptime": "47.99%",
+    "uptimeDay": "47.99%",
+    "uptimeWeek": "47.99%",
+    "uptimeMonth": "47.99%",
+    "uptimeYear": "47.99%",
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2026-10-22": 0
+      "2026-10-22": 4
     }
   }
 ]
