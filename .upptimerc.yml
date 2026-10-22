@@ -2,7 +2,7 @@ owner: skylineoptical
 repo: erp-status
 sites:
   - name: Skyline ERP
-    url: https://erp.skylineoptical.com.my/users
+    url: https://erp.skylineoptical.com.my/health
     expectedStatusCodes:
       - 200
 assignees:
