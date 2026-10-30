@@ -7,6 +7,7 @@ sites:
       - 200
 assignees:
   - Loong1992
+  - skyline-optical
 status-website:
   name: Skyline ERP status
   baseUrl: /erp-status
